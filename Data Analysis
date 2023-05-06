@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>Data Collection/Analysis</h3>
+<p>Data is visible by using the following link: (https://docs.google.com/spreadsheets/d/1TSVoR4hj2nMKOH88rqgOMynyPOokhGYOwvH9j-2LqN4/edit?usp=sharing)</p>
+<br>
+<p>The data seen was formattted from a CSV file into a Google spreadsheet for easier viewing for me. I exported the data from FiveThirtyEight (see README section) as a CSV file for use to answer my hypothesis. I then created a graph of all 84 candies and their preference rate, but this proved to come out as too much information to be very educational. I instead opted for a summary of the top 10 candies chosen by users, and created a pie chart as a nice visualization of how close the candies came to each other, with Reeses Peanut Butter Cups edging out to first place by merely 0.3% against the top 10. </p>
+<hr>
+<p>The data shows that my hypothesis was correct, but not for the reasons I had thought. The data taken for use in this experiment consisted of the candy type, price point, and sugar content, rather than overall availability or "popularity". I believe that including data brought from store sales notating the overall availibility of candy, and the sales of different candies, will prove to generally correlate with the data provided. A following experiemnt could test user preference between overall packs of candy, and notate aesthetics of packaging, candy contents, and scale of user preference based on personal taste for specific candy.</p>
