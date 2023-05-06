@@ -1,0 +1,11 @@
+Data Tools
+ Data tools describes the difference between spreadsheets and SQL, and the benefits of each. While I did struggle a bit more to understand this, I can see how the slimmer size of SQL benefits machines, and how the added tools and layouts of spreadsheets benefits users. I used the spreadsheet for the questions throughout the module, as I am more familiar with the layout. Being able to use larger pools of this data helps identify trends over time, and therefore track behaviors and interests of individuals or groups. 
+ 
+Big Data
+ The big data lesson describes the various forms of data that can be captured and stored, such as images, movies, and entire websites. It also delves into PII and the privacy concerns surrounding it. I beleive data collection is neccessary to understand how society and nature behaves, and that larger data pools provide more accurate answers. I beleive data storage and proccessing effiencency could be increased from current uses (the image of data storage depicts shelves of HDDs wheras SDDs could be used) to provide more for a company. I also beleive that no matter what privacy laws are put in place, there will never be a way to truly keep personal information off the internet other than complete avoidance of it. 
+ 
+Bias in Machine Learning
+ This lesson introduced neural networks, which are the best way for machines to "train themselves" given they have a large enough pool of data to pull from and analyze. But these pools of data are typically verified by people, and therefore contain the bias of those that help guide the program to the "correct" answer. Much of that data is pulled from previous history, where bias can be found from the past (noted in criminal justice systems). Bias can also be found if a overall user based is leaned on way over another, as shown with larger workforces being male in the past. 
+ 
+ Unit Test
+  The unit test analyzed how I could understand data from various sources, as well as how that data could be combined into various outputs that relied on more than one dataset. It also worked with understanding various sizes of data, displaying how different formats were larger than others. The test also showed how various algorithms can resolve to a variety of answers, and asked to demonstrate a understanding of the correlation of these algorithms. 
