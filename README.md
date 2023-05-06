@@ -4,7 +4,7 @@ CS 1030-003 Final Project
 Step 2: Hypothesis Question
 
   If people choose between multiple common types of candy given out on Halloween, which candy will rank the highest?
-  I hypthesize that Reese's will be the most liked candy, based on past experience and high inclusion rates in combo packs    sold during the Halloween season. 
+  I hypothesize that Reese's will be the most liked candy, based on past experience and high inclusion rates in combo packs    sold during the Halloween season. 
 
 
 Step 4: Proccess & Results of Analysis
